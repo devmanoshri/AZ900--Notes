@@ -31,3 +31,22 @@ faqs, and other documents that can be used to show Microsoft's compliance effort
 
 9. Which of the following services would NOT be considered Infrastructure as a Service?
 A. Azure Functions App 
+
+10. Which of the following Azure Resources are required in order to have a virtual machine? Only choose services that are required, not ones that are optional.
+A. Network Interface Card (NIC), Storage Account, Virtual Network
+
+A virtual machine needs a network card, storage and a virtual network. It does not need a public IP address. In fact, most Azure VMs are private and are not accessible from the Internet.
+
+11. What are the two features that Azure AD provides?
+A. Application management, Authentication
+
+12. True or false: Azure Active Directory is a network gateway that load balances user logins using a CDN (Content Delivery Network).
+A. FALSE
+
+13. Which storage redundancy option is the cheapest?
+A. LRS (Locally Redundant Storage) has the lowest price of all the options.
+
+14.What affect does using a "read only" resource lock on a Azure Storage Account have?
+A. The storage account cannot have its properties altered but it doesn't affect the data itself.
+
+Resource Locks only affect your ability to make changes to a resource within Azure but do not affect the resource itself. For instance, a resource lock on a virtual machine still allows the VM to operate but will prevent someone from restarting a VM. Similarly, a resource lock on a storage account only affects the Azure properties of the account.
