@@ -50,3 +50,80 @@ A. LRS (Locally Redundant Storage) has the lowest price of all the options.
 A. The storage account cannot have its properties altered but it doesn't affect the data itself.
 
 Resource Locks only affect your ability to make changes to a resource within Azure but do not affect the resource itself. For instance, a resource lock on a virtual machine still allows the VM to operate but will prevent someone from restarting a VM. Similarly, a resource lock on a storage account only affects the Azure properties of the account.
+
+15. How does Multi-Factor Authentication make a system more secure?
+A. It requires the user to have access to an additional device for identity verification
+
+16. What is Azure's preferred Identity/authentication service?
+A. Azure Active Directory
+
+17. Which Azure technology allows you to log in to Azure Active Directory device or application using your face, a PIN code, or a gesture instead of having to type a password?
+a. Passwordless
+
+18. What is a core principle of Zero Trust?
+A. Assume your network has been breached already
+
+19 True or false: Azure charges for bandwidth used <b>inbound</b> to Azure
+A. FALSE
+
+20. How many availability zones are there in each region (for regions that have them)?
+A. 3
+
+21. Which of the following elements is considered part of the <b>perimeter</b> layer of security?
+a. Use a firewall
+
+22. True of false: Azure Powershell scripts and Command Line Interface (CLI) scripts are entirely compatible with each other?
+A. FALSE
+
+23. What is the purpose of Azure Blueprints?
+A. Allows you to create new subscriptions that already have policies, roles, resource groups, and ARM templates.
+
+24. True or false: Azure Cloud Shell allows access to the CLI and Powershell consoles in the Azure Portal
+a. TRUE
+
+25. Which tool within the Azure Portal will make specific recommendations based on your actual usage for how you can improve your use of Azure?
+A. Azure Advisor
+
+26. Which of the following elements is considered part of the <b>network</b> layer of network security?
+A. Separate servers into distinct subnets by role
+
+27. True or False: An Azure Storage Account can have both a public endpoint and a private endpoint at the same time.
+A. TRUE
+
+28. Which Azure technology allows you to manage virtual machines running in Azure, in your own environment, and in other environments such as AWS?
+A. Azure Arc
+
+29. Which of the following is the best approach when you need to copy large amount of files between two Azure Storage accounts?
+A. AzCopy
+
+30. What is the fastest connection type between your on-premesis network and Microsoft Azure, if money was not a concern?
+A. Express Route
+
+31. Which of the following are examples of Azure Sovereign Regions?
+A. Azure China, Azure US Government
+
+32. What types of resources are defined as <b>compute resources</b>?
+A. Resources that perform some type of task that requires CPU cycles to perform the work
+
+33. Which feature within Azure collects all of the logs from various resources into a central dashboard, where you can run queries, view graphs, and create alerts on certain events?
+A. Azure Monitor
+
+34.What is Single Sign-On?
+A. The ability to log in once and use the existing userid and password to sign in other applications, and not have to create/memorize a new one.
+
+35. What feature of a system makes it elastic?
+A. The ability of it to add and reduce capacity based on actual demand
+
+36. What benefit does Availability Sets provide when it comes to virtual machines in Azure?
+A. Physically and logically separates virtual machines so that if one goes down, the others do not go down.
+
+37. Which Azure Service gives you access to your own personalized Windows 10 or 11 desktop machine in the cloud, so that you can access your work files and applications whereever you go from any device?
+A. Azure Virtual Desktop
+
+38. Which feature within Azure alerts you to service issues that happen in Azure itself, not specifically related to your own resources?
+A. Azure Service Health
+
+39. True or false: you can create your own policies if built-in Azure Policy is not sufficient to your needs
+A. TRUE
+
+
