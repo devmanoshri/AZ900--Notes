@@ -126,4 +126,41 @@ A. Azure Service Health
 39. True or false: you can create your own policies if built-in Azure Policy is not sufficient to your needs
 A. TRUE
 
+40. What does it mean if a service is in Public Preview mode?
+A. Anyone can use the service but normal service level agreements do not apply
 
+41. Which of the following elements is considered part of the "network" layer of network security?
+A. Separate servers into distinct subnets by role
+
+42. What is the basic way of protecting an Azure Virtual Network subnet?
+A. Network Security Group
+
+43. What does it mean if a service is in Private Preview mode?
+A. You have to apply to get selected in order to use that service
+Private Preview means you have to apply to use a service, and you may or may not be selected
+
+44. What is the default amount of credits that you are given when you first create an Azure Free account?
+A. The default is US$200
+
+45. True or false: Microsoft Entra ID is a network gateway that load balances user logins using a CDN (Content Delivery Network).
+A. FALSE
+
+46. What is the concept of Big Data?
+A. An extremely large set of data that you want to ingest and do analysis on; traditional software like SQL Server cannot handle Big Data as efficiently as specialized products
+
+47. Which of the following scenarios would Azure Policy be a recommended method for enforcement?
+A. Prevent certain Azure Virtual Machine instance types from being used in a resource group
+
+48. Which feature within Azure alerts you to service issues that happen in Azure itself, not specifically related to your own resources?
+A. Azure Service Health
+
+49. What is Single Sign-On?
+A. The ability to log in once and use the existing userid and password to sign in other applications, and not have to create/memorize a new one.
+
+50. Which feature within Azure collects all of the logs from various resources into a central dashboard, where you can run queries, view graphs, and create alerts on certain events?
+A. Azure Monitor
+
+51. Which of the following services would NOT be considered Infrastructure as a Service?
+A. Azure Functions App (OPTIONS: Azure Functions App, Virtual Network, Virtual Machine, Virtual Network Interface Card (NIC))
+
+52.  
