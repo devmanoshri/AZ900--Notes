@@ -163,4 +163,140 @@ A. Azure Monitor
 51. Which of the following services would NOT be considered Infrastructure as a Service?
 A. Azure Functions App (OPTIONS: Azure Functions App, Virtual Network, Virtual Machine, Virtual Network Interface Card (NIC))
 
-52.  
+52.  Select the answer that correctly completes the sentence.
+In cloud computing, [answer choice] allows you to deploy applications to regional datacenters around the world.
+A. geo-location 
+
+53. Which type of cloud service are virtual networks?
+a. infrastructure as a service (IaaS)
+
+54. Which two factors affect Azure costs? 
+A. resource location, resource usage
+
+55. You need to compare the costs of running an application in an on-premises datacenter with the costs of running the application in Azure.
+What should you use to assist you?
+A. Total Cost of Ownership (TCO) Calculator
+
+56. You plan to build a new solution in Azure that will use platform as a service (PaaS) products.
+What should you use to estimate the monthly costs?
+A. Azure Pricing calculator
+
+57. Which two features are available by using Azure Cost Management + Billing?
+A. Estimate the total cost of ownership before resources are deployed.
+Generate historical reports and forecast future usage.
+
+58. Your organization plans to deploy several production virtual machines that will have consistent resource usage throughout the year.
+What can you use to minimize the costs of the virtual machines without reducing the functionality of the virtual machines?
+A. Azure Reservations
+
+59. You need to ensure that multi-factor authentication (MFA) is enabled on accounts with write permissions in an Azure subscription.
+What should you implement?
+A. Azure Policy
+Azure Policy is a service in Azure that enables you to create, assign, and manage policies that control or audit resources.
+
+60. Which two actions can be performed by using Azure portal? 
+A. Create new resources.
+Create Microsoft Entra user
+
+61. Which two tools can you use to create a new Azure virtual machine from a mobile device that runs Android? 
+A. PowerShell in Azure Cloud Shell, the Azure portal
+
+62. Which Azure service evaluates Azure resources and makes recommendations to help improve reliability, security, performance, and cost reduction?
+A. Azure Advisor
+
+63. You need to review the root cause analysis (RCA) report for a service outage that occurred last week.
+Where should you look for the report?
+A. Azure Service Health
+After an outage, Service Health provides official incident reports called root cause analysis (RCA), which you can share with stakeholders.
+
+64. You need to create a custom solution that uses thresholds to trigger autoscaling functionality to scale an app up or down to meet user demand.
+What should you include in the solution?
+A. Azure Monitor
+Azure Monitor is a platform that collects metric and logging data, such as CPU percentages. The data can be used to trigger autoscaling.
+
+65. What can you use to find information about planned maintenance for Azure services that are critical to your organization?
+A. Azure Service Health
+You can drill down to the affected services, regions, and details to show how an event will affect you and what you must do. Most of these events occur without any impact to you and will not be shown. In a rare case that a reboot is required, Service Health allows you to choose when to perform the maintenance to minimize the downtime
+
+66. Select the answer that correctly completes the sentence.
+In a region pair, a region is paired with another region in the same [answer choice].
+A. geography
+Each Azure region is always paired with another region within the same geography, such as US, Europe, or Asia, at least 300 miles away.
+
+67. What can you use to execute code in a serverless environment?
+A. Azure Functions
+Azure Functions allows you to run code as a service without having to manage the underlying platform or infrastructure. Azure Logic Apps is similar to Azure Functions, but uses predefined workflows instead of developing your own code.
+
+68. What can you use to connect Azure resources, such as Azure SQL databases, to an Azure virtual network?
+A. service endpoints
+Service endpoints are used to expose Azure services to a virtual network, providing communication between the two. 
+ExpressRoute is used to connect an on-premises network to Azure. 
+NSGs allow you to configure inbound and outbound rules for virtual networks and virtual machines. 
+Peering allows you to connect virtual networks together.
+
+69. What can you use to provide Mac and Android users with access to a Windows environment that will run Windows-based applications?
+A. Azure Virtual Desktop is a desktop and application virtualization service that runs in the cloud. It enables your users to use a cloud-hosted version of Windows from any location. Azure Virtual Desktop works across devices such as Windows, Mac, iOS, Android, and Linux. It works with apps that you can use to access Remote Desktops and apps. You can also use most modern browsers to access Azure Virtual Desktop-hosted experiences.
+
+70. Which Azure Blob storage tier stores data offline and offers the lowest storage costs and the highest costs to access data?
+A. Archive
+The Archive storage tier stores data offline and offers the lowest storage costs, but also the highest costs to rehydrate and access data. 
+The Hot storage tier is optimized for storing data that is accessed frequently. 
+Data in the Cool access tier can tolerate slightly lower availability, but still requires high durability, retrieval latency, and throughput characteristics similar to hot data.
+
+71. Which storage service offers fully managed file shares in the cloud that are accessible by using Server Message Block (SMB) protocol?
+A. Azure Files
+
+72. Which Azure Storage service should you use to store unstructured files, such as images, that will be served on webpages?
+A. Azure Blob storage
+Azure Blob storage is an object storage solution that you can use to store massive amounts of unstructured data, such as text or binary data.
+
+73. To which object or level is an Azure role-based access control (RBAC) role applied?
+A. An Azure RBAC role is applied to a scope, which is a resource or set of resources that the access applies to. Resource locks prevent the accidental change or deletion of a resource. Resource tags are used to locate and act on resources associated with specific workloads, environments, business units, and owners. Policies enforce different rules across resource configurations so that the configurations stay compliant with corporate standards.
+
+74. Which type of strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data?
+A. defense in depth
+A defense in depth strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data. The principle of least privilege means restricting access to information to only the level that users need to perform their work. A DDoS attack attempts to overwhelm and exhaust an application's resources. The perimeter layer is about protecting an organization's resources from network-based attacks.
+
+75. What can you use to ensure that users authenticate by using multi-factor authentication (MFA) when they attempt to sign in from a specific location?
+A. Conditional Access
+Conditional Access can use signals to determine information about authentication attempts, and then determine whether to block access or require additional verifications, such as MFA.
+
+76. [Answer choice] is the deployment and management service for Azure.
+A. Azure Resource Manager (ARM)
+
+77. Which two Azure resources can make use of availability zones?
+A. Azure SQL databases, virtual machines
+
+78. Which Azure compute service can you use to deploy and manage a set of identical virtual machines?
+A. Azure Virtual Machine Scale Sets
+
+79. What is the customer responsible for in a software as a service (SaaS) model?
+A. data and access (NOT storage, runtime, virtual machines )
+
+80. You need to associate the costs of resources to different groups within an organization without changing the location of the resources.
+What should you use?
+A. resource tags
+Resource tags can be used to group billing data and categorize costs by runtime environment, such as billing usage for virtual machines running in a production environment.
+
+81. What can you use to ensure that a development team can only create virtual machines of a certain size?
+A. Azure Policy
+Azure Policy enables you to define both individual policies and groups of related policies called initiatives. Azure Policy evaluates your resources and highlights resources that are not compliant with the policies you created. Azure Policy can also prevent noncompliant resources from being created.
+
+82. Which two tools can you use to create a new Azure virtual machine from a mobile device that runs Android? 
+A. PowerShell in Azure Cloud Shell, the Azure portal
+
+83. You have a team of Linux administrators that need to manage the resources in Azure. The team wants to use the Bash shell to perform the administration. What should you recommend?
+A. Azure CLI
+Azure CLI allows you to use the Bash shell to perform administrative tasks. Bash is used in Linux environments, so a Linux administrator will probably be more comfortable performing command-line administration from Azure CLI.
+
+84. What can you use to automatically detect performance anomalies for web apps?
+A. Azure Application Insights
+Application Insights is a feature of Azure Monitor that allows you to monitor running applications, automatically detect performance anomalies, and use built-in analytics tools to see what users do on an app.
+
+85. What can you use to find information about planned maintenance for Azure services that are critical to your organization?
+A. Azure Service Health
+You can drill down to the affected services, regions, and details to show how an event will affect you and what you must do. Most of these events occur without any impact to you and will not be shown. In a rare case that a reboot is required, Service Health allows you to choose when to perform the maintenance to minimize the downtime
+
+86. 
+
+
