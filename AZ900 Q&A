@@ -297,6 +297,11 @@ Application Insights is a feature of Azure Monitor that allows you to monitor ru
 A. Azure Service Health
 You can drill down to the affected services, regions, and details to show how an event will affect you and what you must do. Most of these events occur without any impact to you and will not be shown. In a rare case that a reboot is required, Service Health allows you to choose when to perform the maintenance to minimize the downtime
 
-86. 
+86. You receive an email notification that virtual machines (VMs) in an Azure region where you have VMs deployed is experiencing an outage. Which component of Azure Service Health will let you know if your application is impacted?
+A. Resource Health
+
+87. Which is not one of the recommendation categories for Azure Advisor? 
+a. Capacity
+The five recommendation categories for Azure Advisor are: Reliability, Security, Performance, Operational Excellence, and Cost.
 
 
