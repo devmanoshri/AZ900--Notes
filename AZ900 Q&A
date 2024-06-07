@@ -41,7 +41,7 @@ A virtual machine needs a network card, storage and a virtual network. It does n
 A. Application management, Authentication
 
 12. True or false: Azure Active Directory is a network gateway that load balances user logins using a CDN (Content Delivery Network).
-A. FALSE
+A. False
 
 13. Which storage redundancy option is the cheapest?
 A. LRS (Locally Redundant Storage) has the lowest price of all the options.
