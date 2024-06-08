@@ -27,10 +27,24 @@ Hybrid identity solutions create a common user identity for authentication and a
 
 5. After an outage, Service Health provides official incident reports called root cause analysis (RCA), which you can share with stakeholders.
 6. Agility means that you can deploy and configure cloud-based resources quickly as app requirements change. Scalability means that you can add RAM, CPU, or entire virtual machines to a configuration. Elasticity means that you can configure cloud-based apps to take advantage of autoscaling, so apps always have the resources they need. High availability means that cloud-based apps can provide a continuous user experience with no apparent downtime, even when things go wrong.
+7. Which type of strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data? 
+defense in depth
+
+A defense in depth strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data. The principle of least privilege means restricting access to information to only the level that users need to perform their work. A DDoS attack attempts to overwhelm and exhaust an application's resources. The perimeter layer is about protecting an organization's resources from network-based attacks.
+
+8. Which Microsoft Entra feature can you use to ensure that users can only access Microsoft Office 365 applications from approved client applications?
+
+Conditional Access
+
+Conditional Access allows administrators to control, allow, or deny access to resources based on certain signals. You can require that access to certain applications only be allowed if the users are using an approved client application. MFA is a process whereby a user is prompted during the sign-in process for an additional form of identification. Examples include a code on their mobile phone or a fingerprint scan.
+
+9.
 
 ********* Practice assessment links:
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=1e2babc2-d857-4e4f-9b01-01c979011e13
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=69956bc6-5819-4928-8edf-91159b2433eb
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=125d118f-805a-4d89-b2b6-4b3d6243a6e9
 
 
