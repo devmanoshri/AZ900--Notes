@@ -11,7 +11,26 @@ The VNet will be marked as ‘Non-compliant’ when the policy is assigned. Howe
 Azure Policy is a service in Azure that you use to create, assign, and manage policies. These policies enforce different rules and effects over your resources, so those resources stay compliant with your corporate standards and service level agreements.
 If there are any existing resources that aren’t compliant with a new policy assignment, they appear under Non-compliant resources.
 
+2. 
+
+Conditional Access is a feature that Microsoft Entra uses to allow or deny access to resources based on identity signals, such as the device being used. 
+
+SSO enables a user to sign in one time and use that credential to access multiple resources and applications from different providers. 
+
+MFA is a process whereby a user is prompted during the sign-in process for an additional form of identification. 
+
+Hybrid identity solutions create a common user identity for authentication and authorization to all resources, regardless of location.
+
+3. Azure RBAC allows you to assign a set of permissions to a user or group. Resource tags are used to locate and act on resources associated with specific workloads, environments, business units, and owners. Resource locks prevent the accidental change or deletion of a resource. Key Vault is a centralized cloud service for storing an application secrets in a single, central location.
+
+4.A defense in depth strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data. The principle of least privilege means restricting access to information to only the level that users need to perform their work. A DDoS attack attempts to overwhelm and exhaust an application's resources. The perimeter layer is about protecting an organization's resources from network-based attacks.
+
+5. After an outage, Service Health provides official incident reports called root cause analysis (RCA), which you can share with stakeholders.
+6. Agility means that you can deploy and configure cloud-based resources quickly as app requirements change. Scalability means that you can add RAM, CPU, or entire virtual machines to a configuration. Elasticity means that you can configure cloud-based apps to take advantage of autoscaling, so apps always have the resources they need. High availability means that cloud-based apps can provide a continuous user experience with no apparent downtime, even when things go wrong.
+
 ********* Practice assessment links:
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=1e2babc2-d857-4e4f-9b01-01c979011e13
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=69956bc6-5819-4928-8edf-91159b2433eb
 
 
