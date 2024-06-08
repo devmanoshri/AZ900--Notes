@@ -10,3 +10,8 @@ Ans.
 The VNet will be marked as ‘Non-compliant’ when the policy is assigned. However, it will not be deleted and will continue to function normally.
 Azure Policy is a service in Azure that you use to create, assign, and manage policies. These policies enforce different rules and effects over your resources, so those resources stay compliant with your corporate standards and service level agreements.
 If there are any existing resources that aren’t compliant with a new policy assignment, they appear under Non-compliant resources.
+
+********* Practice assessment links:
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=1e2babc2-d857-4e4f-9b01-01c979011e13
+
+
