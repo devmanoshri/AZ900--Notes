@@ -38,7 +38,8 @@ Conditional Access
 
 Conditional Access allows administrators to control, allow, or deny access to resources based on certain signals. You can require that access to certain applications only be allowed if the users are using an approved client application. MFA is a process whereby a user is prompted during the sign-in process for an additional form of identification. Examples include a code on their mobile phone or a fingerprint scan.
 
-9. 
+
+
 
 ********* Practice assessment links:
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=1e2babc2-d857-4e4f-9b01-01c979011e13
@@ -48,5 +49,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=125d118f-805a-4d89-b2b6-4b3d6243a6e9
 
 https://tutorialsdojo.com/az-900-microsoft-azure-fundamentals-sample-exam-questions/
+
+
+============================================================================================================================================
+https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically
+
+9. An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?
+Ans. No. A PowerShell script is a file that contains PowerShell cmdlets and code. A PowerShell script needs to be run in PowerShell.
+PowerShell can now be installed on Linux. However, the question states that the computer has Azure CLI tools, not PowerShell installed. Therefore, this solution does not meet the goal.
+
 
 
