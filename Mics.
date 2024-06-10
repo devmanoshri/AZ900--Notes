@@ -11,7 +11,7 @@ The VNet will be marked as ‘Non-compliant’ when the policy is assigned. Howe
 Azure Policy is a service in Azure that you use to create, assign, and manage policies. These policies enforce different rules and effects over your resources, so those resources stay compliant with your corporate standards and service level agreements.
 If there are any existing resources that aren’t compliant with a new policy assignment, they appear under Non-compliant resources.
 
-2. 
+2.   
 
 Conditional Access is a feature that Microsoft Entra uses to allow or deny access to resources based on identity signals, such as the device being used. 
 
@@ -46,5 +46,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=69956bc6-5819-4928-8edf-91159b2433eb
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=125d118f-805a-4d89-b2b6-4b3d6243a6e9
+
+https://tutorialsdojo.com/az-900-microsoft-azure-fundamentals-sample-exam-questions/
 
 
