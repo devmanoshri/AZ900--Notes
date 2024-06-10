@@ -58,5 +58,17 @@ https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals
 Ans. No. A PowerShell script is a file that contains PowerShell cmdlets and code. A PowerShell script needs to be run in PowerShell.
 PowerShell can now be installed on Linux. However, the question states that the computer has Azure CLI tools, not PowerShell installed. Therefore, this solution does not meet the goal.
 
+10. Azure Cognitive Services is a collection of ready-to-use artificial intelligence (AI) APIs that allow developers to incorporate advanced AI capabilities into their projects. These services provide features such as computer vision, natural language processing, speech recognition, machine translation, and more.
+
+11. Azure Application Insights is an extensible analytics service that helps you understand the performance and usage of your live web application. Connect to your Application Insights resource to run and visualize various Analytics queries.
+
+12. Resources don't inherit the tags you apply to a resource group or a subscription. 
+
+13. You cannot merge two subscriptions into a single subscription.
+
+14. You are charged for public IP addresses. Therefore, deleting unused public IP addresses will reduce the Azure costs.
+
+15.
+
 
 
