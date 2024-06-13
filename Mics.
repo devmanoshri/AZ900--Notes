@@ -38,7 +38,7 @@ Conditional Access
 
 Conditional Access allows administrators to control, allow, or deny access to resources based on certain signals. You can require that access to certain applications only be allowed if the users are using an approved client application. MFA is a process whereby a user is prompted during the sign-in process for an additional form of identification. Examples include a code on their mobile phone or a fingerprint scan.
 
-
+  
 
 
 ********* Practice assessment links:
@@ -68,7 +68,13 @@ PowerShell can now be installed on Linux. However, the question states that the 
 
 14. You are charged for public IP addresses. Therefore, deleting unused public IP addresses will reduce the Azure costs.
 
-15.
+15. A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.
+a. Fault Tolerance.
+
+16. Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?
+a. Azure DevOps.
+
+17. 
 
 
 
