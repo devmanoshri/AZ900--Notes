@@ -74,7 +74,17 @@ a. Fault Tolerance.
 16. Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?
 a. Azure DevOps.
 
-17. 
+17. After an outage, Service Health provides official incident reports called root cause analysis (RCA), which you can share with stakeholders.
+
+18. Azure Monitor is a platform that collects metric and logging data, such as CPU percentages. The data can be used to trigger autoscaling.
+
+19. Health advisories are issues that require that you take proactive action to avoid service interruptions, such as service retirements and breaking changes. Service issues are problems such as outages that require immediate actions.
+
+20. Service endpoints are used to expose Azure services to a virtual network, providing communication between the two. ExpressRoute is used to connect an on-premises network to Azure. NSGs allow you to configure inbound and outbound rules for virtual networks and virtual machines. Peering allows you to connect virtual networks together.
+
+21. A defense in depth strategy uses a series of mechanisms to slow the advancement of an attack that aims to gain unauthorized access to data. The principle of least privilege means restricting access to information to only the level that users need to perform their work. A DDoS attack attempts to overwhelm and exhaust an application's resources. The perimeter layer is about protecting an organization's resources from network-based attacks.
+
+22. Spot instances are a type of cloud computing resource available at steep discounts(great discounts) compared to traditional on-demand rates. They represent unused computing power that a cloud service provider wants to sell off at a lower price to ensure maximum utilization of its resources.
 
 
 
