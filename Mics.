@@ -86,5 +86,10 @@ a. Azure DevOps.
 
 22. Spot instances are a type of cloud computing resource available at steep discounts(great discounts) compared to traditional on-demand rates. They represent unused computing power that a cloud service provider wants to sell off at a lower price to ensure maximum utilization of its resources.
 
+23. Lock inheritance
+When you apply a lock at a parent scope, all resources within that scope inherit the same lock. Even resources you add later inherit the same parent lock.
+
+24. Premium Storage is specifically designed for Azure Virtual Machine workloads requiring consistent high performance and low latency. This makes them highly suitable for I/O-sensitive SQL Server workloads. Premium Storage is currently available only for storing data on disks used by Azure Virtual Machine
+
 
 
