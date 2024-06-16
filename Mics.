@@ -39,7 +39,7 @@ Conditional Access
 Conditional Access allows administrators to control, allow, or deny access to resources based on certain signals. You can require that access to certain applications only be allowed if the users are using an approved client application. MFA is a process whereby a user is prompted during the sign-in process for an additional form of identification. Examples include a code on their mobile phone or a fingerprint scan.
 
   
-
+ 
 
 ********* Practice assessment links:
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/results?assessmentId=23&practice-assessment-type=certification&snapshotId=1e2babc2-d857-4e4f-9b01-01c979011e13
