@@ -285,7 +285,7 @@ Azure Policy enables you to define both individual policies and groups of relate
 82. Which two tools can you use to create a new Azure virtual machine from a mobile device that runs Android? 
 A. PowerShell in Azure Cloud Shell, the Azure portal
 
-83. You have a team of Linux administrators that need to manage the resources in Azure. The team wants to use the Bash shell to perform the administration. What should you recommend?
+83. You have a team of Linux administrators that need to manage the resources in Azure. The team wants to use the Bash shell to perform the administration. What should you recommend? 
 A. Azure CLI
 Azure CLI allows you to use the Bash shell to perform administrative tasks. Bash is used in Linux environments, so a Linux administrator will probably be more comfortable performing command-line administration from Azure CLI.
 
