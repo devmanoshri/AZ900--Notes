@@ -49,6 +49,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
 https://tutorialsdojo.com/az-900-microsoft-azure-fundamentals-sample-exam-questions/
 
 
+
+
 ============================================================================================================================================
 https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically
 
@@ -95,5 +97,5 @@ When you apply a lock at a parent scope, all resources within that scope inherit
 
 24. Premium Storage is specifically designed for Azure Virtual Machine workloads requiring consistent high performance and low latency. This makes them highly suitable for I/O-sensitive SQL Server workloads. Premium Storage is currently available only for storing data on disks used by Azure Virtual Machine
 
-
+I PASSED on the first chance!!!
 
